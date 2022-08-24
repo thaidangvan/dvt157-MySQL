@@ -103,6 +103,8 @@ CREATE TABLE ExamQuestion(
     PRIMARY KEY (ExamID,QuestionID)
 );
 
+		
+        
 
 
 
